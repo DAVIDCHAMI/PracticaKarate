@@ -1,0 +1,6 @@
+{
+    "karateRunner.karateRunner.default": "counduitTest",
+    "karateRunner.tests.activityBarDisplayType": "Tag",
+    "karateRunner.reports.activityBarDisplayType": "List",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
